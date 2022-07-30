@@ -4,14 +4,15 @@
 project1：对SM3实现简单的生日攻击  
 project2：对SM3使用Rho方法  
 project3：对SM3实现长度扩展攻击  
-project4：对SM3进行优化  
-# 完成的项目：
+project4：对SM3进行优化 
+# 清单：
+## 完成的项目：
 1、implement the naïve birthday attack of reduced SM3  
 2、implement the Rho method of reduced SM3  
 3、implement length extension attack for SM3,SHA256,etc  
 4、do your best to optimise SM3 implementation(software)  
 
-# 未完成的项目：
+## 未完成的项目：
 5、impl Merkle Tree following RFC6962  
 6、Try to implement this scheme(below)  
 7、report on the application of this deduce technique in Ethereum with ECDSA  
