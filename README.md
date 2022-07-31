@@ -4,7 +4,7 @@
 project1：对SM3实现简单的生日攻击  
 project2：对SM3使用Rho方法  
 project3：对SM3实现长度扩展攻击  
-project4：对SM3进行优化 
+project4：对SM3进行优化  
 project8：SM2的RFC6979
 # 清单：
 ## 完成的项目：
